@@ -1,0 +1,11 @@
+body{
+  margin-bottom: 200px;
+
+}
+th{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border:7px solid black;
+  font-size: 130px;
+}
